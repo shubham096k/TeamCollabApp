@@ -1,0 +1,2 @@
+This file is created inside feature-shubham-squash branch.
+We will squash and merge this branch.
